@@ -1,0 +1,28 @@
+plugin.tx_veranstaltungen_listveranstaltung {
+    view {
+        # cat=plugin.tx_veranstaltungen_listveranstaltung/file; type=string; label=Path to template root (FE)
+        templateRootPath = EXT:veranstaltungen/Resources/Private/Templates/
+        # cat=plugin.tx_veranstaltungen_listveranstaltung/file; type=string; label=Path to template partials (FE)
+        partialRootPath = EXT:veranstaltungen/Resources/Private/Partials/
+        # cat=plugin.tx_veranstaltungen_listveranstaltung/file; type=string; label=Path to template layouts (FE)
+        layoutRootPath = EXT:veranstaltungen/Resources/Private/Layouts/
+    }
+    persistence {
+        # cat=plugin.tx_veranstaltungen_listveranstaltung//a; type=string; label=Default storage PID
+        storagePid =
+    }
+}
+plugin.tx_veranstaltungen_showveranstaltung {
+    view {
+        # cat=plugin.tx_veranstaltungen_showveranstaltung/file; type=string; label=Path to template root (FE)
+        templateRootPath = EXT:veranstaltungen/Resources/Private/Templates/
+        # cat=plugin.tx_veranstaltungen_showveranstaltung/file; type=string; label=Path to template partials (FE)
+        partialRootPath = EXT:veranstaltungen/Resources/Private/Partials/
+        # cat=plugin.tx_veranstaltungen_showveranstaltung/file; type=string; label=Path to template layouts (FE)
+        layoutRootPath = EXT:veranstaltungen/Resources/Private/Layouts/
+    }
+    persistence {
+        # cat=plugin.tx_veranstaltungen_showveranstaltung//a; type=string; label=Default storage PID
+        storagePid =
+    }
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:veranstaltungen/Resources/Private/Language/locallang.xlf" date="2024-02-14T15:33:59Z" product-name="veranstaltungen">
+		<header/>
+		<body>
+			<trans-unit id="tx_veranstaltungen_domain_model_veranstaltung" resname="tx_veranstaltungen_domain_model_veranstaltung">
+				<source>Veranstaltung</source>
+			</trans-unit>
+			<trans-unit id="tx_veranstaltungen_domain_model_veranstaltung.description" resname="tx_veranstaltungen_domain_model_veranstaltung.description">
+				<source>Veranstaltung</source>
+			</trans-unit>
+			<trans-unit id="tx_veranstaltungen_domain_model_veranstaltung.title" resname="tx_veranstaltungen_domain_model_veranstaltung.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_veranstaltungen_domain_model_veranstaltung.title.description" resname="tx_veranstaltungen_domain_model_veranstaltung.title.description">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_veranstaltungen_domain_model_veranstaltung.descritpion" resname="tx_veranstaltungen_domain_model_veranstaltung.descritpion">
+				<source>Descritpion</source>
+			</trans-unit>
+			<trans-unit id="tx_veranstaltungen_domain_model_veranstaltung.descritpion.description" resname="tx_veranstaltungen_domain_model_veranstaltung.descritpion.description">
+				<source>Descritpion</source>
+			</trans-unit>
+			<trans-unit id="tx_veranstaltungen_domain_model_veranstaltung.organisator" resname="tx_veranstaltungen_domain_model_veranstaltung.organisator">
+				<source>Organisator</source>
+			</trans-unit>
+			<trans-unit id="tx_veranstaltungen_domain_model_veranstaltung.organisator.description" resname="tx_veranstaltungen_domain_model_veranstaltung.organisator.description">
+				<source>Organisator</source>
+			</trans-unit>
+			<trans-unit id="tx_veranstaltungen_domain_model_organisator" resname="tx_veranstaltungen_domain_model_organisator">
+				<source>Organisator</source>
+			</trans-unit>
+			<trans-unit id="tx_veranstaltungen_domain_model_organisator.description" resname="tx_veranstaltungen_domain_model_organisator.description">
+				<source>Organisator</source>
+			</trans-unit>
+			<trans-unit id="tx_veranstaltungen_domain_model_organisator.name" resname="tx_veranstaltungen_domain_model_organisator.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_veranstaltungen_domain_model_organisator.name.description" resname="tx_veranstaltungen_domain_model_organisator.name.description">
+				<source>Name</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
